@@ -5,5 +5,4 @@ if [ ! -f "$FILE" ]; then
     wget https://public-cdn.cloud.unity3d.com/hub/prod/UnityHub.AppImage
     chmod +x $FILE
 fi
-$FILE </dev/null &>./logs.txt &
-exit
+$FILE >./logs.txt 2>./logs.txt &
