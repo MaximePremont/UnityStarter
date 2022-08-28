@@ -15,3 +15,12 @@
 
 UnityStarter is a basic script allowing to download and above all to start the Unity Hub asynchronously, without immobilizing the terminal.
 According to contributions in the future, the project is likely to evolve into a real Unity Hub installer for Linux.
+
+<h2>⚙️ Installation & Usage</h2>
+
+To download the script, just use the following commands:
+```
+git clone git@github.com:MaximePremont/UnityStarter.git
+cd UnityStarter
+./StartUnity.sh
+```
