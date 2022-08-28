@@ -24,3 +24,7 @@ git clone git@github.com:MaximePremont/UnityStarter.git
 cd UnityStarter
 ./StartUnity.sh
 ```
+
+<h2>📄 Support</h2>
+
+If you have any questions or problems, you can [create an issue](https://github.com/MaximePremont/UnityStarter/issues) or [add a new discussion](https://github.com/MaximePremont/UnityStarter/discussions).
