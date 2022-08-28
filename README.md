@@ -11,3 +11,7 @@
 <a href="https://github.com/MaximePremont/UnityStarter/stargazers"><img alt="stars" src="https://badgen.net/github/stars/MaximePremont/UnityStarter" /></a>
 <a href="https://fr.wikipedia.org/wiki/Bourne-Again_shell"><img alt="Made with Bash" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg" /></a>
 </p>
+<h2>🔍 Description</h2>
+
+UnityStarter is a basic script allowing to download and above all to start the Unity Hub asynchronously, without immobilizing the terminal.
+According to contributions in the future, the project is likely to evolve into a real Unity Hub installer for Linux.
